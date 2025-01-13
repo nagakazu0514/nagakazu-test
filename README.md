@@ -1,3 +1,0 @@
-# nagakazu-test
-
-test
